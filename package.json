@@ -1,4 +1,25 @@
 {
   "name": "unofficial-servicetitan-sdk",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "This is an wrapper for the Servicetitan v2 api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Graphite-Lab/unofficial-servicetitan-sdk.git"
+  },
+  "keywords": [
+    "servicetitan"
+  ],
+  "author": "The Graphite Lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Graphite-Lab/unofficial-servicetitan-sdk/issues"
+  },
+  "homepage": "https://github.com/The-Graphite-Lab/unofficial-servicetitan-sdk#readme",
+  "dependencies": {
+    "axios": "^1.3.6"
+  }
 }
